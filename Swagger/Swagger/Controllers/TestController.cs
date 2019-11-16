@@ -18,9 +18,9 @@ namespace Swagger.Controllers
         }
 
         [HttpPost]
-        public string Post(TestRequest request)
+        public TestResponse Post(TestRequest request)
         {
-            return request.Name + " " + request.SurName;
+            return new TestResponse { FullName = request.Name + " " + request.SurName };
         }
     }
 }

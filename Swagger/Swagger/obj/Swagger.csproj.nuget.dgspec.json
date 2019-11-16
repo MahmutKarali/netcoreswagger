@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Enqura\\source\\repos\\Swagger\\Swagger\\Swagger.csproj": {}
+    "C:\\Users\\Enqura\\Desktop\\netcoreswagger\\Swagger\\Swagger\\Swagger.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Enqura\\source\\repos\\Swagger\\Swagger\\Swagger.csproj": {
+    "C:\\Users\\Enqura\\Desktop\\netcoreswagger\\Swagger\\Swagger\\Swagger.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Enqura\\source\\repos\\Swagger\\Swagger\\Swagger.csproj",
+        "projectUniqueName": "C:\\Users\\Enqura\\Desktop\\netcoreswagger\\Swagger\\Swagger\\Swagger.csproj",
         "projectName": "Swagger",
-        "projectPath": "C:\\Users\\Enqura\\source\\repos\\Swagger\\Swagger\\Swagger.csproj",
+        "projectPath": "C:\\Users\\Enqura\\Desktop\\netcoreswagger\\Swagger\\Swagger\\Swagger.csproj",
         "packagesPath": "C:\\Users\\Enqura\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Enqura\\source\\repos\\Swagger\\Swagger\\obj\\",
+        "outputPath": "C:\\Users\\Enqura\\Desktop\\netcoreswagger\\Swagger\\Swagger\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -44,10 +44,6 @@
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[5.0.0-rc2, )"
-            },
-            "Swashbuckle.AspNetCore.Swagger": {
-              "target": "Package",
-              "version": "[4.0.1, )"
             }
           },
           "imports": [

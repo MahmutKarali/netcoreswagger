@@ -3304,11 +3304,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Enqura\\source\\repos\\Swagger\\Swagger\\Swagger.csproj",
+      "projectUniqueName": "C:\\Users\\Enqura\\Desktop\\netcoreswagger\\Swagger\\Swagger\\Swagger.csproj",
       "projectName": "Swagger",
-      "projectPath": "C:\\Users\\Enqura\\source\\repos\\Swagger\\Swagger\\Swagger.csproj",
+      "projectPath": "C:\\Users\\Enqura\\Desktop\\netcoreswagger\\Swagger\\Swagger\\Swagger.csproj",
       "packagesPath": "C:\\Users\\Enqura\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Enqura\\source\\repos\\Swagger\\Swagger\\obj\\",
+      "outputPath": "C:\\Users\\Enqura\\Desktop\\netcoreswagger\\Swagger\\Swagger\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
